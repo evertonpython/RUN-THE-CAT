@@ -1,4 +1,5 @@
 # coding: utf-8
+# by: Everton
 import pygame
 from random import randint
 pygame.init() # FUNÇÂO INICIAl PYGAME
